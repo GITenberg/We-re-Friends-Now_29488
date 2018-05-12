@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32816
 description: The little man stood in front of the monstrous machine as the synaptic
   drone heightened to a scream. No ... no, he whispered. Don't you understand...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29488#We-re-Friends-Now
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-07-22'
 gutenberg_type: Text
