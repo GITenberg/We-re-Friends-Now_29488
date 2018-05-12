@@ -1,0 +1,34 @@
+_repo: We-re-Friends-Now_29488
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Varga, Mel
+    gutenberg_agent_id: '33941'
+    url: http://www.gutenberg.org/2009/agents/33941
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hasse, Henry
+    alias: Hasse, Henry Louis
+    birthdate: 1913
+    deathdate: 1977
+    gutenberg_agent_id: '32816'
+    url: http://www.gutenberg.org/2009/agents/32816
+description: The little man stood in front of the monstrous machine as the synaptic
+  drone heightened to a scream. No ... no, he whispered. Don't you understand...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: We're Friends, Now
+url: http://www.gutenberg.org/ebooks/29488
